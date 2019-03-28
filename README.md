@@ -120,7 +120,7 @@ The background would be white because there is no color assigned in the HTML
 
 * **Why are there a couple of gray boxes on the screen with a different colored border? How could you edit this code to make them a different color? Explain briefly. Then edit the code to make those boxes some shade of blue, of your choosing.**
 
-There are grey boxes because the style of the p tag is assigned a background-background-color of #b3b3b3 on line 41. You could edit this in either the javascript or the css by changing the back color.
+There are grey boxes because the style of the p tag is assigned a background-background-color of #b3b3b3 on line 41. You could edit this in either the javascript or the css by changing the color.
 
 * **Edit the code so that, if you highlight `McGill University` and copy it, you see the text `O Canada` near the bottom of the page. Briefly explain why you made the edits that you did -- how did you know/figure out what to do?**
 
